@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdef8034-15d3-482a-87b4-1efc8b90d2c1" name="Changes" comment="" />
+    <list default="true" id="cdef8034-15d3-482a-87b4-1efc8b90d2c1" name="Changes" comment="firts commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,11 +89,23 @@
       <workItem from="1677718858530" duration="7000" />
       <workItem from="1677719090699" duration="10000" />
       <workItem from="1677719271500" duration="352000" />
-      <workItem from="1677719639244" duration="1636000" />
+      <workItem from="1677719639244" duration="2006000" />
     </task>
+    <task id="LOCAL-00001" summary="firts commit">
+      <created>1677721294436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677721294436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firts commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firts commit" />
   </component>
 </project>
